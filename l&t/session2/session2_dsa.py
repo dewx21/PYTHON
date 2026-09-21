@@ -16,3 +16,8 @@ e=False #bool variable
 # 3. set
 # 4. dictionary
 # 5. array
+
+# creation of a list
+a=[1,3,4,5,2] # list declaration
+print(type(a)) # prints out the type of data structure
+print(a[0:2], a[-1]) # printing using slicing
